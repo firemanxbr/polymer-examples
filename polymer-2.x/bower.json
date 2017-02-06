@@ -1,0 +1,16 @@
+{
+  "name": "sample-polymer-2",
+  "version": "0.0.1",
+  "authors": [
+    "Marcelo Barbosa <firemanxbr@fedoraproject.org>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.0-preview"
+  },
+  "devDependencies": {
+    "web-component-tester": "#^v5.0.0"
+  }
+}
